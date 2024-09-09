@@ -1,3 +1,6 @@
+## To run this program
+   npm install
+   npm run dev
 ## Task Requirements:
 
 - Create a webpage to list all the tasks in their respective columns (TODO | IN PROGRESS | COMPLETED)
